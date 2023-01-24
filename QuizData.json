@@ -1,0 +1,102 @@
+{
+  "status" :"success",
+   "data":[
+          {"question" : "what is colour of ocean ?",
+           "answer" :"blue",
+           "options" :["green","yellow","pink","black"]
+    
+          },
+
+          {"question" : "Do you like javaScript ?",
+           "answer" :"yes",
+           "options" :["no"]
+    
+          },
+          {"question" : "what is colour of grass",
+           "answer" :"green",
+           "options" :["red","yellow","pink","blue"]
+    
+          },
+          {"question" : "what is colour of water",
+           "answer" :"no color",
+           "options" :["green","yellow","pink","blue"]
+    
+          },
+          {"question" : "what is colour of sky ?",
+           "answer" :"blue",
+           "options" :["green","yellow","pink","white"]
+    
+          }
+
+          ,
+          {"question" : "what is colour of sky ?",
+           "answer" :"blue",
+           "options" :["green","yellow","pink","white"]
+    
+          }
+
+          ,
+          {"question" : "what is colour of sky ?",
+           "answer" :"blue",
+           "options" :["green","yellow","pink","white"]
+    
+          }
+          ,
+          {"question" : "what is colour of sky ?",
+           "answer" :"blue",
+           "options" :["green","yellow","pink","white"]
+    
+          }
+          ,
+          {"question" : "what is colour of sky ?",
+           "answer" :"blue",
+           "options" :["green","yellow","pink","white"]
+    
+          }
+          ,
+          {"question" : "what is colour of sky ?",
+           "answer" :"blue",
+           "options" :["green","yellow","pink","white"]
+    
+          }
+          ,
+          {"question" : "what is colour of sky ?",
+           "answer" :"blue",
+           "options" :["green","yellow","pink","white"]
+    
+          }
+          ,
+          {"question" : "what is colour of sky ?",
+           "answer" :"blue",
+           "options" :["green","yellow","pink","white"]
+    
+          }
+          ,
+          {"question" : "what is colour of sky ?",
+           "answer" :"blue",
+           "options" :["green","yellow","pink","white"]
+    
+          }
+
+          ,
+          {"question" : "what is colour of sky ?",
+           "answer" :"blue",
+           "options" :["green","yellow","pink","white"]
+    
+          }
+          ,
+          {"question" : "what is colour of sky ?",
+           "answer" :"blue",
+           "options" :["green","yellow","pink","white"]
+    
+          }
+          
+
+         
+          
+
+]
+
+
+
+}
